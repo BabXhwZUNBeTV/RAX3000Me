@@ -1,5 +1,7 @@
 欢迎支持一键三连，点颗星星~谢谢呢
 
+**20250426由于RAX3000M固件美化页面更新，T760（U20-F50）系列终结5G竞赛——RAX3000M开启飞猫U20轻NAS挂载详细教程，见RAX3000Me/20250426-RAX3000M-suc文件夹**
+
 ***20250417补充：uboot文件，请从telnet或者ssh里面进行刷写，也就是说“三、通过Telnet更新Uboot”步骤中的教程***
 
 ***20250415重要更新：20241111-RAX3000Me_Step12-TelnetUboot文件夹中增加新的uboot文件20250415_RAX3000me-nand-ddr3_HY_uboot.bin，全面支持.itb固件，按需索取，可替换mt7981_cmcc_rax3000m-fip-fixed-parts.bin***
